@@ -22,11 +22,11 @@
 
 </div>
 <div>
-  <img height="200" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg?raw=true" alt="My Name is Livio and I like Node.js" />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpzOXNnM2VqMzJzc2c4cDhqa3gwaHhvemY0aG93ZDlsYXV1M3RpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6TPSAzVzdWMfi8YXe/giphy.gif" alt="My Name is Livio and I like Node.js" />
 </div>
 
 <div>
-  <img height="400px" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg?raw=true" alt="My Name is Livio and I like Node.js" />
+  <img height="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpzOXNnM2VqMzJzc2c4cDhqa3gwaHhvemY0aG93ZDlsYXV1M3RpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6TPSAzVzdWMfi8YXe/giphy.gifk w" alt="My Name is Livio and I like Node.js" />
 </div>
 <!-- Social -->
 <table width="100%" align="center">
