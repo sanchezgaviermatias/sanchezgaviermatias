@@ -21,6 +21,9 @@
   <br />
 
 </div>
+<div>
+  <img height="50" alt="My Name is Livio and I like Node.js" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJuMHFoeTIxYzlwNWJsNWF3dTV5ODFleXN2MXY4cmt4Y3QwdWU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhhEKTfedQowM/giphy.gif" />
+</div>
 
 <!-- Social -->
 <table width="100%" align="center">
