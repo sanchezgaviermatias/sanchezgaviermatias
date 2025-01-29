@@ -14,8 +14,6 @@
 
 # 👋 Hi there, I'm Matias
 
-
-## 🚀 About Me
 - 🔭 I'm currently working on AI for Finance in LexAI Research and UALA Fintech (Latam)
 - 🌱 I'm Develping some opensource projects
 - 👯 I'm looking to collaborate on innovative projects
@@ -24,9 +22,6 @@
 
 <!-- "Hero" Header -->
 
-<div align="center">
-  <img height="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpzOXNnM2VqMzJzc2c4cDhqa3gwaHhvemY0aG93ZDlsYXV1M3RpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6TPSAzVzdWMfi8YXe/giphy.gifk w" alt="My Name is Livio and I like Node.js" />
-</div>
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
@@ -48,12 +43,18 @@
 
 <!-- Footer -->
 
+
 <div align="center">
 
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJuMHFoeTIxYzlwNWJsNWF3dTV5ODFleXN2MXY4cmt4Y3QwdWU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhhEKTfedQowM/giphy.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img height="200" src="" alt="My Name is Livio and I like Node.js" />
+</div>
+
+<br />
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
