@@ -11,49 +11,81 @@
 - 💬 Ask me about web development, data science, and cloud computing
 - 📫 How to reach me: [your.email@example.com]
 
-## 🛠️ Tech Stack
+<!-- "Hero" Header -->
 <div align="center">
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
 
 </div>
 
-## 📊 GitHub Stats
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://brunnerliv.io">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<!-- Guestbook -->
+| Name | Date | Message |
+|---|---|---|
+| <a href="https://github.com/sudojoao"><img width="24" src="https://avatars.githubusercontent.com/u/162704766?s=24&u=3e86b664f79343e05d087196302d60013beadea1&v=4" alt="sudojoao" /> sudojoao</a> |1/29/2025, 3:46:18 AM|very cool|
+| <a href="https://github.com/usefmahmud"><img width="24" src="https://avatars.githubusercontent.com/u/129234471?s=24&u=298677447c3161407de316a54ee02923ab558bcc&v=4" alt="usefmahmud" /> usefmahmud</a> |1/26/2025, 11:12:45 AM|Amazing|
+| <a href="https://github.com/yashikacodes"><img width="24" src="https://avatars.githubusercontent.com/u/133915106?s=24&u=6c272318e800ffa334bca7a72ccdd0c9e0a20c97&v=4" alt="yashikacodes" /> yashikacodes</a> |1/25/2025, 1:01:18 AM|Great workkk Livio :) !!!|
+| <a href="https://github.com/SD-W1972"><img width="24" src="https://avatars.githubusercontent.com/u/93013194?s=24&u=e1679b57f898b987a356ffcd3f50223282c75d8d&v=4" alt="SD-W1972" /> SD-W1972</a> |1/17/2025, 12:20:33 PM|rust > javascript<br /><br />agreed !|
+| <a href="https://github.com/Mesure73L"><img width="24" src="https://avatars.githubusercontent.com/u/115181664?s=24&u=52c15a26ccf77f1ddae42fb83130563c38837caa&v=4" alt="Mesure73L" /> Mesure73L</a> |1/15/2025, 8:39:09 PM|I love the idea of letting people say things about your README directly on it.|
+<!-- /Guestbook -->
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark" alt="Contribution Graph" />
-</div>
+<!-- Footer -->
 
-## 🌐 Connect with me
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
-</div>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
----
-<div align="center">
-  <i>⚡ Happy coding! ⚡</i>
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
 </div>
