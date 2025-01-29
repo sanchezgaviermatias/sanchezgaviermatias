@@ -22,9 +22,12 @@
 
 </div>
 <div>
-  <img height="200" with="100%" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg?raw=true" alt="My Name is Livio and I like Node.js" />
+  <img height="200" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg?raw=true" alt="My Name is Livio and I like Node.js" />
 </div>
 
+<div>
+  <img height="400px" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg?raw=true" alt="My Name is Livio and I like Node.js" />
+</div>
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
