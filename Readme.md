@@ -21,3 +21,14 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJuMHFoeTIxYzlwNWJsNWF3dTV5ODFleXN2MXY4cmt4Y3QwdWU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhhEKTfedQowM/giphy.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
+
+
+
+<div align="center">
+  <img src="github-profile.svg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
+
+
+<div align="center">
+  <img src="./github-profile.svg" style="max-width: 100%;" alt="Welcome to my Github Profile2" />
+</div>
