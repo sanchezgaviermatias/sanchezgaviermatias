@@ -22,7 +22,7 @@
 
 </div>
 <div>
-  <img height="50" alt="My Name is Livio and I like Node.js" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJuMHFoeTIxYzlwNWJsNWF3dTV5ODFleXN2MXY4cmt4Y3QwdWU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhhEKTfedQowM/giphy.gif" />
+  <img height="200" with="100%" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg?raw=true" alt="My Name is Livio and I like Node.js" />
 </div>
 
 <!-- Social -->
